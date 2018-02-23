@@ -14,10 +14,19 @@ In the field of data science, we are constantly bombarded with innovative approa
 https://github.com/angelabassa/ge-iiot-ml-2017workshop/blob/master/ge-iiot-ml%20ABassa%20-%20oct%202017.pdf
 
 
+## Video
+This presentation was video recorded. You can watch the videos at the following link:
+
+MassTLC Applied Machine Learning Developer Day 2018: https://youtu.be/QfOPS80Jmjw
+
+
 ## Additional Resources
 
 #### GE Minds + Machines
 * https://www.ge.com/digital/minds-machines
+
+#### MassTLC Applied Machine Learning Developer Day 2018
+* http://business.masstlc.org/masstlcevents/Details/applied-machine-learning-developer-day-2018-30384
 
 #### Other topics
 More topics TBD
